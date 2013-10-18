@@ -1,0 +1,4 @@
+2)
+2.1- la condición del bucle no es while v == 0, tendría que ser v != 0.
+2.2- utilizando el comando 'step' te das cuenta de que no entra en el bucle, además con el comando 'v l' en los pasos del step ves que las variables no cambian en ningún momento.
+
